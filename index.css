@@ -1,0 +1,14 @@
+#combobox {
+    width: 200px;
+    height: 30px;
+}
+
+#borrar:hover{
+    cursor : pointer;
+    color: blue;
+}
+
+#modelslist > p :hover {
+    cursor: pointer;
+    color: blue;
+}
